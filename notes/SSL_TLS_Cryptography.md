@@ -1,1 +1,2 @@
-e
+1. sysmmetric encryption  
+sysmmetric encryption also known as private-key cryptography,In order to ensure communication security,Alice and Bob first get the encryption algorithm and key recognized by both parties, When Alice needs to send data to Bob, she uses this key to encrypt the data. Bob uses the same key to decrypt the data, Eve can access the channel, So he can see the encrypted data,but because there is no key, so the original data can not been seen,Alice and Bob can always communicate securely as long as the key is secure.
